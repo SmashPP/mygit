@@ -12,5 +12,6 @@ public class MyGitApp {
         System.out.println("Hello Git4!");
         System.out.println("master test!");
         System.out.println("hot-fix test!");
+        System.out.println("push test!");
     }
 }
